@@ -1,1 +1,1 @@
-worker: start bedrock_server.exe
+worker:start bedrock_server.exe
